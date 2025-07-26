@@ -1,4 +1,4 @@
-# KaalaSetu 🚀
+# KalaaSetu 🚀
 
 A modern AI-powered content generation platform that allows users to create videos, audio, and graphics through an intuitive chat interface. Built with React frontend and Node.js backend, featuring user authentication and session management.
 
@@ -33,7 +33,7 @@ A modern AI-powered content generation platform that allows users to create vide
 ## 📁 Project Structure
 
 ```
-kaalasetu/
+KalaaSetu/
 ├── backend/                 # Node.js/Express backend
 │   ├── Controllers/        # Request handlers
 │   ├── Middlewares/        # Authentication & validation
@@ -63,7 +63,7 @@ kaalasetu/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd kaalasetu
+   cd KalaaSetu
    ```
 
 2. **Backend Setup**
@@ -83,7 +83,7 @@ kaalasetu/
    Create a `.env` file in the backend directory:
    ```env
    PORT=4000
-   MONGODB_URI=mongodb://localhost:27017/kaalasetu
+   MONGODB_URI=mongodb://localhost:27017/KalaaSetu
    JWT_SECRET=your_jwt_secret_here
    ```
 
@@ -194,4 +194,4 @@ For support and questions:
 
 ---
 
-**KaalaSetu** - Bridging creativity with AI technology 🎨✨# kaalasetu
+**KalaaSetu** - Bridging creativity with AI technology 🎨✨# KalaaSetu

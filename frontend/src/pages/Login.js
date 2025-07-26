@@ -48,7 +48,7 @@ function Login() {
       <div className="w-full md:w-1/2 flex items-center justify-center bg-black px-8 py-12">
         <div className="w-full max-w-md space-y-6">
           <h1 className="text-4xl font-bold text-white mb-4 tracking-tight">
-            Welcome to <span className="text-green-400">Kaalasetu</span>
+            Welcome to <span className="text-green-400">KalaaSetu</span>
           </h1>
           <p className="text-zinc-400 mb-6">Sign in to your dashboard</p>
 
@@ -112,7 +112,7 @@ function Login() {
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center px-6">
             <h2 className="text-5xl font-extrabold text-white drop-shadow-lg">
-              Kaalasetu
+              KalaaSetu
             </h2>
             <p className="mt-4 text-zinc-300 text-lg max-w-md mx-auto">
               A bridge to intelligent multimedia — from text to video, graphics, and voice.
